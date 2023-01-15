@@ -1,0 +1,22 @@
+{
+  "name": "credit_card_valiation",
+  "version": "1.0.0",
+  "description": "This is a mini program, implemented using javaScript, which is used to check the validity of a credit card. Master card specifically",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Estate360/Credit_Card_Valiation.git"
+  },
+  "author": "Gospel Nweke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Estate360/Credit_Card_Valiation/issues"
+  },
+  "homepage": "https://github.com/Estate360/Credit_Card_Valiation#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
